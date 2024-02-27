@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&section=header&text=I%am%Sanghoon" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=purple&height=240&section=header&text=I%am%Sanghoon" />
 
 # WASSUP
 WASSUP
