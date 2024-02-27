@@ -8,4 +8,4 @@ WASSUP AI 서비스 기획자 양성과정 2기에 참여하고 있는 이상훈
 안녕하세요
 하이하이
 
-<img src="https://capsule-render.vercel.app/api?type=RECT&color=auto&height=180&section=footer&text=contact&fontSize=40&desc=7sanghoon@naver.com" />
+<img src="https://capsule-render.vercel.app/api?type=RECT&color=auto&height=180&section=footer&text=contact&fontSize=50&desc=7sanghoon@naver.com&descSize=50" />
