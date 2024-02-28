@@ -45,4 +45,4 @@ AI를 통해 삶의 질을 상승시켜줄 수 있는 서비스를 만들고 싶
   * 1종보통운전면허<br>
 </details>
 
-이력서: https://drive.google.com/file/d/1S1PQ14Q87JMISlLhkRfSqa-eu4NItkO1/view?usp=drive_link
+<b>이력서</b>: https://drive.google.com/file/d/1S1PQ14Q87JMISlLhkRfSqa-eu4NItkO1/view?usp=drive_link
